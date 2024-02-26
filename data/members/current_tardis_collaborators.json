@@ -112,19 +112,9 @@
         "image_path": "media/images/jing.jpg"
     },
     {
-        "member_id": "yuki_matsumura",
-        "expertise": [
-            ""
-        ],
-        "start_year": null,
-        "end_year": null,
-        "full_name": "Yuki Matsumura",
-        "image_path": "media/images/yuki_face.png"
-    },
-    {
         "member_id": "mark_magee",
         "expertise": [
-            ""
+            "Type Ia supernovae"
         ],
         "start_year": null,
         "end_year": null,
@@ -162,16 +152,6 @@
         "end_year": null,
         "full_name": "Sona Chitchyan",
         "image_path": "media/images/sona_photo.jpg"
-    },
-    {
-        "member_id": "bea_lu",
-        "expertise": [
-            ""
-        ],
-        "start_year": null,
-        "end_year": null,
-        "full_name": "Bea Lu",
-        "image_path": "media/images/bea_lu.jpg"
     },
     {
         "member_id": "alexander_holas",
