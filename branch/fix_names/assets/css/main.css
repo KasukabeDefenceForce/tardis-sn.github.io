@@ -1662,7 +1662,7 @@ body.has-theme-bar #page {
 
 .picture-grid .individual-container .info-container .rounded-picture {
   height: 100px;
-  object-fit: contain;
+  object-fit: cover;
   width: 100px;
   border: 1px solid lightgray;
   border-radius: 50%;
